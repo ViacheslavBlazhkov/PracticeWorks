@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="BackendDeveloper" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task_2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BussinessAnalyst" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Task_2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employee" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAIAAACAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task_2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAACAAAEBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task_2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programmer" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAKAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Task_2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectManager" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="BussinessAnalyst">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-0.64" Y="0.06" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <InheritanceLine Type="Programmer" ManuallyRouted="true">
+      <Path>
+        <Point X="1.75" Y="2.941" />
+        <Point X="1.75" Y="3.866" />
+        <Point X="5.25" Y="3.866" />
+        <Point X="5.25" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task_2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
